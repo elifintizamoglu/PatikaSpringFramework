@@ -9,6 +9,7 @@ import lombok.NoArgsConstructor;
 import javax.enterprise.context.ApplicationScoped;
 import javax.inject.Named;
 
+
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
