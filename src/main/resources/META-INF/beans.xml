@@ -10,4 +10,8 @@
         <!--<class>com.elifintizam.alternative.Boss1</class>-->
     </alternatives>
 
+    <interceptors>
+        <class>com.elifintizam.aop.interceptor.InterceptorRealWork</class>
+    </interceptors>
+
 </beans>
