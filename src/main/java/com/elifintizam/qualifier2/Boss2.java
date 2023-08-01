@@ -1,6 +1,4 @@
-package com.elifintizam.qualifier;
-
-import javax.enterprise.inject.Alternative;
+package com.elifintizam.qualifier2;
 
 @QualifierMultiple
 public class Boss2 implements IBoss {

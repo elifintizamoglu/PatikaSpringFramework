@@ -1,4 +1,4 @@
-package com.elifintizam.qualifier;
+package com.elifintizam.qualifier3;
 
 import javax.enterprise.inject.Default;
 

@@ -1,4 +1,4 @@
-package com.elifintizam.qualifier;
+package com.elifintizam.qualifier2;
 
 import javax.inject.Qualifier;
 import java.lang.annotation.Documented;

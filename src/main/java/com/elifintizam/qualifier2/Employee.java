@@ -1,4 +1,4 @@
-package com.elifintizam.qualifier;
+package com.elifintizam.qualifier2;
 
 import javax.enterprise.context.ApplicationScoped;
 import javax.inject.Inject;
