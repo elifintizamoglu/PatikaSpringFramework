@@ -14,4 +14,8 @@
         <class>com.elifintizam.aop.interceptor.InterceptorRealWork</class>
     </interceptors>
 
+    <decorators>
+        <class>com.elifintizam.aop.decorator.HouseDecorator</class>
+    </decorators>
+
 </beans>
